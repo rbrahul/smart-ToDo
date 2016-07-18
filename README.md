@@ -52,3 +52,6 @@ $ npm run dev
 After writing these command we will goto the browser and try to access our
 application on [http://localhost:8080 ](http://localhost:8080) url.
 If every thing goes well, now we will be able see our brand new Todo Manager.
+
+## Image View:
+![Smart-ToDo](https://raw.githubusercontent.com/rbrahul/smart-ToDo/master/Screen%20Shot%20React%20Redux%20Todo%20Manager.png)
